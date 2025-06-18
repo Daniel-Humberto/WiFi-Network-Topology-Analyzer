@@ -68,3 +68,12 @@ Este codigo Python pertenecea a un Analizador de Topología de Red avanzada que 
 
 
 ---
+
+
+
+## Licencia
+
+Este proyecto está licenciado bajo la [Licencia GNU](LICENSE).
+
+
+---

@@ -44,6 +44,12 @@ Este código Python pertenece a un Analizador de Topología de Red avanzada que 
 
 ---
 
+## Aspectos Legales y Éticos
+
+⚠️ **IMPORTANTE**: Esta herramienta está diseñada exclusivamente para fines académicos y éticos. El uso de esta herramienta para escanear redes sin autorización explícita puede constituir un delito. 
+
+---
+
 ## 📝 Licencia
 
 Este proyecto está licenciado bajo la [Licencia GNU](LICENSE).

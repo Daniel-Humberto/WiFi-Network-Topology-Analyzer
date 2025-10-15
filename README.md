@@ -2,13 +2,17 @@
 
 ![Imagen 1](Imagenes/1.png)
 
+
 ---
+
 
 ## 🧾 Descripción
 
 Este código Python pertenece a un Analizador de Topología de Red avanzada que visualiza y analiza la topología de la red WiFi en tiempo real. 
 
+
 ---
+
 
 ### ⚙️ Características
 
@@ -19,7 +23,9 @@ Este código Python pertenece a un Analizador de Topología de Red avanzada que 
 - **Persistencia de datos**: Guarda y carga los datos de topología de red para su posterior análisis  
 - **UI en modo oscuro**: Interfaz moderna y limpia creada con CustomTkinter  
 
+
 ---
+
 
 ### 🖥️ Requisitos del Dispositivo
 
@@ -29,7 +35,9 @@ Este código Python pertenece a un Analizador de Topología de Red avanzada que 
 - Linux  
 - NMap  
 
+
 ---
+
 
 ### 📦 Paquetes Python necesarios
 
@@ -42,16 +50,21 @@ Este código Python pertenece a un Analizador de Topología de Red avanzada que 
 - scapy  
 - psutil  
 
+
 ---
+
 
 ## Aspectos Legales y Éticos
 
 ⚠️ **IMPORTANTE**: Esta herramienta está diseñada exclusivamente para fines académicos y éticos. El uso de esta herramienta para escanear redes sin autorización explícita puede constituir un delito. 
 
+
 ---
+
 
 ## 📝 Licencia
 
 Este proyecto está licenciado bajo la [Licencia GNU](LICENSE).
+
 
 ---
